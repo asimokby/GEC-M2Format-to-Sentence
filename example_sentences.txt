@@ -1,0 +1,15 @@
+S It 's difficult answer at the question " what are you going to do in the future ? " if the only one who has to know it is in two minds .
+A 3 3|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S When I was younger I used to say that I wanted to be a teacher , a saleswoman and even a butcher .. I do n't know why .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 22 23|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S I would like to study Psychology because one day I would open my own psychology office and help people .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB|||like to|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN|||clinic|||REQUIRED|||-NONE-|||0
+
+S It 's difficult because I 'll have to study hard and a lot , but I think that if you like a subject , you 'll study it easier .
+A 28 29|||R:ADV|||more easily|||REQUIRED|||-NONE-|||0
